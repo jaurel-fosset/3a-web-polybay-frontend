@@ -1,0 +1,9 @@
+product
+{
+    display: flex;
+}
+
+product > p
+{
+    width: 75%;
+}
